@@ -1,5 +1,5 @@
 # Integrador2023_2
-Este repositorio se crea con fines académicos, busca presentar los resultados de final de semestre 2023-2 para la Maestría en Ciencia de Datos de la Universidad Eafit
+Este repositorio se crea con fines académicos, busca presentar los resultados de final de semestre 2023-2 para la Maestría en Ciencia de Datos de la Universidad Eafit <br>
 Equipo: Cindy Vanessa Aguirre Marín,Jhohann Andrés Giraldo Jiménez, Dairo Alberto Cuervo Garcia
 
 ## Acontinuación se presenta el EDA, Preprocesamiento y modelos usados en el proyecto.
