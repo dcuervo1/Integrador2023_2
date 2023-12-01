@@ -2,11 +2,11 @@
 Este repositorio se crea con fines académicos, busca presentar los resultados de final de semestre 2023-2 para la Maestría en Ciencia de Datos de la Universidad Eafit
 Equipo: Cindy Vanessa Aguirre Marín,Jhohann Andrés Giraldo Jiménez, Dairo Alberto Cuervo Garcia
 
-Acontinuación se presenta el EDA, Preprocesamiento y modelos usados en el proyecto.
+## Acontinuación se presenta el EDA, Preprocesamiento y modelos usados en el proyecto.
 
 [EDA y preprocesamiento de datos](Project/1.%20EDA_Preprocessing.ipynb)
   
-Modelos tradicionales para clásificación:
+### Modelos tradicionales para clásificación:
 
 [a. Regresión logística](Project/2.%20LogisticRegression_RandomForest_Isoletion%20Forest.ipynb)
 
@@ -15,7 +15,7 @@ Modelos tradicionales para clásificación:
 [c. Isolation Forest](Project/2.%20LogisticRegression_RandomForest_Isoletion%20Forest.ipynb)
 
   
-Procesos de AutoML con Databricks:
+**Procesos de AutoML con Databricks:**
 
 Ambos notebook son autogenerados en el ambiente de Databricks, para reproducir estos resultados, es necesario conectar
 a clúster con la versión de tiempo de ejecución 13.3.x-gpu-ml-scala2.12. Se dejan los notebooks con su respectiva ejecución
