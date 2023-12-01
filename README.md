@@ -7,11 +7,16 @@ Acontinuación se presenta el EDA, Preprocesamiento y modelos usados en el proye
 [EDA y preprocesamiento de datos](Project/1.%20EDA_Preprocessing.ipynb)
   
 Modelos tradicionales para clásificación:
+
 [a. Regresión logística](Project/2.%20LogisticRegression_RandomForest_Isoletion%20Forest.ipynb)
+
 [b. Random Forest](Project/2.%20LogisticRegression_RandomForest_Isoletion%20Forest.ipynb)
+
 [c. Isolation Forest](Project/2.%20LogisticRegression_RandomForest_Isoletion%20Forest.ipynb)
+
   
 Procesos de AutoML con Databricks:
+
 Ambos notebook son autogenerados en el ambiente de Databricks, para reproducir estos resultados, es necesario conectar
 a clúster con la versión de tiempo de ejecución 13.3.x-gpu-ml-scala2.12. Se dejan los notebooks con su respectiva ejecución
 de los 2 mejores modelos encontrados con AutoML para su revisión.
