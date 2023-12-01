@@ -22,4 +22,5 @@ a clúster con la versión de tiempo de ejecución 13.3.x-gpu-ml-scala2.12. Se d
 de los 2 mejores modelos encontrados con AutoML para su revisión.
   
 [AutoML con XGBoostClassifier](Project/3.1%20AutoML_XGBoostClassifier.ipynb)
+
 [AutoML con lightGBM](Project/3.2%20AutoML_lightGBM.ipynb)
